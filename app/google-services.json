@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "487257903036",
+    "project_id": "cosmopass-48042",
+    "storage_bucket": "cosmopass-48042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487257903036:android:1860da83f9808692fd25b9",
+        "android_client_info": {
+          "package_name": "com.example.cosmopass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487257903036-qsf13rpmt7u9kk33p7mfpmcdb8qf4ij1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cosmopass",
+            "certificate_hash": "739c41811a6feb0125626e5d511acc5618281384"
+          }
+        },
+        {
+          "client_id": "487257903036-pvne6a17vab7utkludujp31i960bt5tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi4Z9aXW3hJG_mf4nZHndIu6Clc4IUZ80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487257903036-pvne6a17vab7utkludujp31i960bt5tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
